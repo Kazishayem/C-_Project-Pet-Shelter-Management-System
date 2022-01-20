@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b2890a8-ba78-42a2-9d8f-bd76b93c6e28": {
+      "ProjectGuid": "8b2890a8-ba78-42a2-9d8f-bd76b93c6e28",
+      "DisplayName": "Pet Shelter Management System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

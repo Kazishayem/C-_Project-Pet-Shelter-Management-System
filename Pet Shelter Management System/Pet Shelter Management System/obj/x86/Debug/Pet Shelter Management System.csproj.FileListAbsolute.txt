@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\bin\x86\Debug\Pet Shelter Management System.exe.config
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\bin\x86\Debug\Pet Shelter Management System.exe
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\bin\x86\Debug\Pet Shelter Management System.pdb
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\bin\x86\Debug\MetroFramework.Design.dll
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\bin\x86\Debug\MetroFramework.dll
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\bin\x86\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet Shelter Management System.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet_Shelter_Management_System.AdminPanel.resources
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet_Shelter_Management_System.Dashboard.resources
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet_Shelter_Management_System.Form1.resources
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet_Shelter_Management_System.Login.resources
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet_Shelter_Management_System.Properties.Resources.resources
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet Shelter Management System.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet Shelter Management System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet Shelter Management System.csproj.CopyComplete
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet Shelter Management System.exe
+C:\Users\hp\source\repos\Pet Shelter Management System\Pet Shelter Management System\obj\x86\Debug\Pet Shelter Management System.pdb
